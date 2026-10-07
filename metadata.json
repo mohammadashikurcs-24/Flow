@@ -1,0 +1,6 @@
+{
+  "name": "Folio & Flow - Contextual Notes & Live Action Ledger",
+  "description": "A modern dual-stream workspace marrying freeform longform notes with an interactive margin action ledger, inline task extraction, and timeboxing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
